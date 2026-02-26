@@ -7,7 +7,7 @@ export default function Home() {
         </p>
         <h1 className="text-4xl font-bold tracking-tight">SSIP Hub</h1>
         <p className="text-gray-400 text-lg">
-          Partner matchmaking platform. Coming soon.
+          SSIP is innovating space here&hellip; launching soon.
         </p>
         <a
           href="https://www.ssip-pl.ch"
