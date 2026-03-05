@@ -9,8 +9,7 @@ export default function Home() {
 
         {/* Nav */}
         <nav>
-          <ul className="nav-links">
-            <li><a href="#">Explore</a></li>
+          <ul className="nav-links" style={{ marginLeft: 'auto' }}>
             <li><a href="https://ssip-pl.ch">About SSIP</a></li>
           </ul>
         </nav>
