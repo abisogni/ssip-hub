@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -14,6 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>{children}</body>
+      <Script src="https://endeavor.zone/script/init/4616b1cc-ba4f-4059-bb1b-8c9a8938e192/" strategy="afterInteractive" />
     </html>
   );
 }

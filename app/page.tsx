@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import DataFlowBackground from '../components/DataFlowBackground';
 
 export default function Home() {
@@ -10,14 +9,8 @@ export default function Home() {
 
         {/* Nav */}
         <nav>
-          <div className="nav-brand">
-            <Image src="/logo-SSIP.png" alt="SSIP" width={36} height={36} />
-            <span>SSIP Hub</span>
-          </div>
           <ul className="nav-links">
             <li><a href="#">Explore</a></li>
-            <li><a href="#">Match</a></li>
-            <li><a href="#">Programs</a></li>
             <li><a href="https://ssip-pl.ch">About SSIP</a></li>
           </ul>
         </nav>
