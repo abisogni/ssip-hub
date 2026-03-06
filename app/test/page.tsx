@@ -1,4 +1,4 @@
-import DataFlowBackground from '../components/DataFlowBackground';
+import DataFlowBackground from '../../components/DataFlowBackground';
 
 export default function Home() {
   return (
