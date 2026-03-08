@@ -17,7 +17,7 @@ export default function Home() {
         {/* Hero */}
         <section className="hero">
           <div className="hero-glass">
-            <div className="hero-eyebrow">Swiss Space &amp; Innovation Platform</div>
+            <div className="hero-eyebrow">Space Systems Innovation Platform</div>
             <h1>Accelerating <strong>Collaboration</strong><br />Across the Space Ecosystem</h1>
             <p className="hero-sub">
               SSIP is a matchmaking-driven innovation platform connecting space, defense,
@@ -187,7 +187,7 @@ export default function Home() {
         </div>
 
         <div className="footer">
-          SSIP &nbsp;&middot;&nbsp; Swiss Space &amp; Innovation Platform &nbsp;&middot;&nbsp; hub.ssip-pl.ch
+          SSIP &nbsp;&middot;&nbsp; Space Systems Innovation Platform &nbsp;&middot;&nbsp; hub.ssip-pl.ch
         </div>
 
       </div>
